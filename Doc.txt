@@ -1,0 +1,8 @@
+The folder contains three destop widgets.
+1.Desktop clock
+2.Google search bar
+3.Mp3 player
+
+
+The widgets can only be stopped from the task manager by ending the process.
+To change the icons of the mp3 player change the icon set included keeping the name same.
